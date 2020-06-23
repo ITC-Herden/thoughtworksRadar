@@ -1,5 +1,23 @@
-name,ring,quadrant,isNew,description  
-Composer,test,tools,TRUE,"Although the idea of dependency management ..."  
-Canary builds,weiter,techniques,FALSE,"Many projects have external code dependencies ..."  
-Apache Kylin,weg,platforms,TRUE,"Apache Kylin is an open source analytics solution ..."  
-JSF,anschauen,languages & frameworks,FALSE,"We continue to see teams run into trouble using JSF ..." 
+name,ring,quadrant,isNew,description
+vSphere,trial,tools,FALSE,not needed
+vSAN,trial,tools,FALSE,not needed
+NSX-T,trial,tools,FALSE,not needed
+Kubernetes,trial,tools,FALSE,not needed
+RedHat OpenShift,assess,tools,FALSE,not needed
+Rancher,assess,tools,FALSE,not needed
+vSphere7,assess,tools,FALSE,not needed
+Jenkins,adopt,tools,FALSE,not needed
+Docker,trial,tools,FALSE,not needed
+GitHub,adopt,tools,FALSE,not needed
+Ansible,adopt,tools,FALSE,not needed
+Salt,trial,tools,FALSE,not needed
+Terraform,assess,tools,FALSE,not needed
+Helm,trial,tools,FALSE,not needed
+Prometheus,trial,tools,FALSE,not needed
+Grafana,trial,tools,FALSE,not needed
+NetApp,trial,tools,FALSE,not needed
+Jira,trial,tools,FALSE,not needed
+Confluence,trial,tools,FALSE,not needed
+WebSphere,hold,tools,FALSE,not needed
+PostGres,trial,tools,FALSE,not needed
+OpenStack,assess,tools,FALSE,not needed
